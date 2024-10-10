@@ -1,5 +1,6 @@
 # Virtual-Hosting
 How to Host Multiple Websites on One Server with NGINX | Step-by-Step Guide
+![image](https://github.com/user-attachments/assets/80e8da4e-6137-4eee-8d83-35a16332f55a)
 
 ## Step 1: Create Separate Directories for Each Website
 - Organize your websites by creating separate directories for each one. For example, let’s say you want to host two websites: example1.com and example2.com.
